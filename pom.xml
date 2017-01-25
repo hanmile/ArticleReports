@@ -9,6 +9,7 @@
     <url>http://maven.apache.org</url>
     <properties>
         <tomcat.version>8.0.28</tomcat.version>
+        <start-class>com.springboot.WebApplication</start-class>
     </properties>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -64,7 +65,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
-            <plugin>
+            <!--<plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>appassembler-maven-plugin</artifactId>
                 <version>1.1.1</version>
@@ -85,7 +86,7 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
+            </plugin>-->
         </plugins>
     </build>
 </project>
