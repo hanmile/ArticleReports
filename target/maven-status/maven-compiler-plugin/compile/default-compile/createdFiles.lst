@@ -1,2 +1,2 @@
-main/java/launch/Main.class
-main/java/servlet/HelloServlet.class
+servlet/HelloServlet.class
+launch/Main.class

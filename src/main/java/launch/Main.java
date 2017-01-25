@@ -1,4 +1,4 @@
-package main.java.launch;
+package launch;
 
 
 import org.apache.catalina.WebResourceRoot;

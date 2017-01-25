@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArticleReports.iml" filepath="$PROJECT_DIR$/ArticleReports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/embeddedTomcatSample.iml" filepath="$PROJECT_DIR$/embeddedTomcatSample.iml" />
     </modules>
   </component>
 </project>
