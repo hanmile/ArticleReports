@@ -9,7 +9,7 @@ import org.apache.catalina.webresources.StandardRoot;
 
 import java.io.File;
 
-public class Main_old {
+public class Main {
 
     public static void main(String[] args) throws Exception {
 
