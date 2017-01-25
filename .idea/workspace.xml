@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03266906-9ae4-4cf0-b283-0c698de1d9b8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/ArticleReports_war_exploded.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/embeddedTomcatSample.jar" afterPath="$PROJECT_DIR$/target/embeddedTomcatSample.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/com/heroku/sample/embeddedTomcatSample/1.0-SNAPSHOT/embeddedTomcatSample-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/repo/com/heroku/sample/embeddedTomcatSample/1.0-SNAPSHOT/embeddedTomcatSample-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/launch/Main.java" afterPath="$PROJECT_DIR$/src/main/java/launch/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/servlet/HelloServlet.java" afterPath="$PROJECT_DIR$/src/main/java/servlet/HelloServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/com/heroku/sample/embeddedTomcatSample/1.0-SNAPSHOT/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/com/heroku/sample/embeddedTomcatSample/1.0-SNAPSHOT/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/com/heroku/sample/embeddedTomcatSample/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/com/heroku/sample/embeddedTomcatSample/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/embed/tomcat-embed-core/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/embed/tomcat-embed-core/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/embed/tomcat-embed-el/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/embed/tomcat-embed-el/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/embed/tomcat-embed-jasper/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/embed/tomcat-embed-jasper/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/embed/tomcat-embed-logging-juli/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/embed/tomcat-embed-logging-juli/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-api/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-api/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-el-api/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-el-api/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-jasper-el/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-jasper-el/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-jasper/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-jasper/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-jsp-api/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-jsp-api/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-juli/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-juli/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-servlet-api/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-servlet-api/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-util-scan/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-util-scan/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-util/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/apache/tomcat/tomcat-util/maven-metadata-appassembler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repo/org/eclipse/jdt/core/compiler/ecj/maven-metadata-appassembler.xml" afterPath="$PROJECT_DIR$/target/repo/org/eclipse/jdt/core/compiler/ecj/maven-metadata-appassembler.xml" />
     </list>
     <ignored path="embeddedTomcatSample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,21 +63,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/launch/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.18329939">
+              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloServlet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/servlet/HelloServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.305499">
-              <caret line="26" column="35" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="87" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,8 +96,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/launch/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/HelloServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/launch/Main.java" />
       </list>
     </option>
   </component>
@@ -185,6 +160,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ArticleReports" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="embeddedTomcatSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArticleReports" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -690,12 +679,12 @@
       <created>1485331621131</created>
       <option name="number" value="Default" />
       <updated>1485331621131</updated>
-      <workItem from="1485331625487" duration="172000" />
+      <workItem from="1485331625487" duration="772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172000" />
+    <option name="totallyTimeSpent" value="772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1870" height="1105" extended-state="0" />
@@ -731,30 +720,23 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/servlet/HelloServlet.java</url>
-          <line>19</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/launch/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/HelloServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="26" column="87" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/HelloServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/launch/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.305499">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.18329939">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
           <folding />
         </state>
       </provider>
