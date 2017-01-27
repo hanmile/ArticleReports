@@ -10,7 +10,7 @@ import java.io.IOException;
 
 @WebServlet(
         name = "MyServlet",
-        urlPatterns = {"/hello"}
+        urlPatterns = {"/helloHeroku"}
 )
 public class HelloServlet extends HttpServlet {
 
